@@ -1,0 +1,68 @@
+.banner{
+	background: rgb(29, 157, 216);
+	color: white; 
+	text-align: center;
+}
+.col-sm{
+	color: rgb(0, 0, 0); 
+	text-align: center;
+}
+.topic{
+	margin: 12px;
+	text-align: left;
+}
+.info{
+	text-align: justify;
+}
+
+.col-8{
+	border-right: 1px dashed #333;
+}
+.education{
+	text-align: justify;
+	margin: 12px;
+}
+.title{
+	text-align: left;
+	font-size: 35px;
+	font-weight: bold;
+}
+.status{
+	text-align: left;
+	margin-top:20px ;
+	font-size: 20px;
+}
+
+.img-fluid{
+	height: auto;
+	width: auto;
+	border-radius: 50%;
+	border: 5px solid white
+}
+.icon{
+	margin: 10px;
+	width: 8%;
+	background-color: white;
+	border: 1px solid white;
+	border-radius: 100%;
+}
+
+.btn {
+	background-color: white;
+}
+.bookmark{
+	width: 30%;
+	
+}
+.banner-info{
+	padding-top: 2%;
+}
+
+.table,.table-borderless{
+	text-align: left;
+	
+}
+.table > :not(caption) > * > * {
+	background-color: rgb(29, 157, 216);
+	color: white;
+}
